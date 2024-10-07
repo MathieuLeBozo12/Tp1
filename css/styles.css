@@ -1,0 +1,18 @@
+.THA{
+    text-align: left;
+}
+
+.photoActeur {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    }
+
+    .poster{
+        height: 750px;;
+        width: 500px;
+    }
