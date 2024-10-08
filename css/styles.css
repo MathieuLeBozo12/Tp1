@@ -1,5 +1,7 @@
-.THA{
+.THA {
     text-align: left;
+    font-size: x-large;
+    background-color: dodgerblue;
 }
 
 .photoActeur {
@@ -10,9 +12,37 @@
     background-size: cover;
     background-repeat: no-repeat;
     display: inline-block;
-    }
+}
 
-    .poster{
-        height: 750px;;
-        width: 500px;
-    }
+.poster {
+    height: 100%;
+    width: 100%;
+
+}
+
+.caracter {
+    font-style: italic;
+    color: dodgerblue;
+}
+
+
+
+body {
+    background-image: linear-gradient(turquoise, blue);
+}
+
+.headTittle {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+table {
+    background-color: white;
+}
+
+.synopsis{
+    text-align: left;
+    font-size: larger;
+}
