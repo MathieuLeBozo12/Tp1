@@ -2,6 +2,7 @@
     text-align: left;
     font-size: x-large;
     background-color: dodgerblue;
+
 }
 
 .photoActeur {
@@ -29,6 +30,8 @@
 
 body {
     background-image: linear-gradient(turquoise, blue);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 
 .headTittle {
@@ -36,13 +39,25 @@ body {
     background-color: black;
     color: white;
     margin: 0;
+    font-size: xx-large;
+
 }
 
 table {
-    background-color: white;
+ background-color: white;
 }
 
-.synopsis{
+.synopsis {
     text-align: left;
     font-size: larger;
+}
+
+.listHeads{
+    list-style-type: none;
+    text-align: left;
+    margin-left: 0;
+}
+
+.underHeadList{
+    list-style-type:disc;
 }
